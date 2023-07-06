@@ -1,0 +1,25 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+input{
+    width: 270px;
+    height: 100px;
+    border-radius: 10px;
+    color: #fff;
+    text-align: right;
+    pointer-events: none;
+}
+.calculator{
+    width: 270px;
+    height: 400px;
+    background-color: gray;
+    border:2px solid black;
+    border-radius: 10px;
+
+    box-shadow: 5px 4px 0px 0px solid black;
+}
+.buttons{
+    background-color: gray;
+}
